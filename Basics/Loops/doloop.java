@@ -1,5 +1,5 @@
 package Basics.Loops;
 
-public class doloop {
+public class DoLoop {
     
 }

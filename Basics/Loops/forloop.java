@@ -1,5 +1,5 @@
 package Basics.Loops;
 
-public class forloop {
+public class ForLoop {
     
 }
