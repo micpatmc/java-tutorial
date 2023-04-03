@@ -1,5 +1,5 @@
-package Basics.Variables;
+import java.util.*;
 
-public class numbers {
+public class Numbers {
     
 }
