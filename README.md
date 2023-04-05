@@ -15,7 +15,12 @@ Current concepts covered:
       i. For-Loops
       ii. While-Loops
       iii. Do-Loops
+
+  *- There is more to be added -*
+
   ## 2. Object-oriented programming
   ---
     a. Polymorphism
     b. Overloading
+
+  *- There is more to be added -*

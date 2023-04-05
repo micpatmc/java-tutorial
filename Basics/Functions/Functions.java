@@ -1,4 +1,4 @@
-package Basics;
+package Basics.Functions;
 // What you'll learn:
 // How to implement functions inside Java
 

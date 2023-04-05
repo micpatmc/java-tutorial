@@ -7,22 +7,24 @@ public class DoLoop
     // runs code up until a certain condition is met
 
     // This is one of many structures of do-loops
-    //
+    // -------------------------------------------
     // [STARTING VARIABLE]
     //
     // do{
     //  // Code.
     //  [INCREMENT]
     //  } while ([CONDITION]);
+    // -------------------------------------------
     
     // This is how it looks with common variables filled inside
-    //
+    // -------------------------------------------
     // int i = 0;
     //
     // do{
     //  // Code.
     //  i++;
     //  } while (i < 3);
+    // -------------------------------------------
 
     // -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
     // -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=

@@ -1,3 +1,5 @@
+package Basics.Comments;
+
 // What you'll learn:
 // How to create comments inside of Java.
 

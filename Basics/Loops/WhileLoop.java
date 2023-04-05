@@ -7,7 +7,7 @@ public class WhileLoop
     // runs code up until a certain condition is met
 
     // This is the universal structure of while-loops
-    //
+    // -------------------------------------------
     // [STARTING VARIABLE]
     //
     // ([CONDITION])
@@ -15,9 +15,10 @@ public class WhileLoop
     //    // Code.
     //    [INCREMENT]
     // }
+    // -------------------------------------------
 
     // This is how it looks with common variables filled inside
-    //
+    // -------------------------------------------
     // int i = 0;
     //
     // (i < 3)
@@ -25,6 +26,7 @@ public class WhileLoop
     //    // Code.
     //    i++;
     // }
+    // -------------------------------------------
     
     // -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
     // -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
@@ -66,4 +68,4 @@ public class WhileLoop
 
 // Confusion arises whether to use for-loops or while-loops, there is no correct
 // answer, they serve the same purpose in different manners, it is up to
-// the programmer
+// the programmer to choose

@@ -7,16 +7,20 @@ public class ForLoop
     // runs code up until a certain point
 
     // This is the universal structure of for-loops
+    // -------------------------------------------
     // ([STARTING VARIABLE]; [CONDITION]; [INCREMENT])
     // {
     //    // Code.
     // }
+    // -------------------------------------------
 
     // This is how it looks with common variables filled inside
+    // -------------------------------------------
     // (int i = 0; i < 3; i++)
     // {
     //    // Code.
     // }
+    // -------------------------------------------
 
     // -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
     // -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
@@ -55,4 +59,4 @@ public class ForLoop
 
 // Confusion arises whether to use for-loops or while-loops, there is no correct
 // answer, they serve the same purpose in different manners, it is up to
-// the programmer
+// the programmer to choose
