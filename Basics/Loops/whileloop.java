@@ -1,10 +1,10 @@
 // What you'll learn:
-// How to do a while-loop inside java.
+// How to do a while-loop inside Java.
 
 public class WhileLoop 
 {
     // A while-loop is a type of loop in java that constantly
-    // runs up until a certain condition is met
+    // runs code up until a certain condition is met
 
     // This is the universal structure of while-loops
     //
@@ -38,8 +38,8 @@ public class WhileLoop
     // 'i' is now 2
     // the code will run
     // 'i' will increment by 1 (i++)
-    // 'i' is now 3
 
+    // 'i' is now 3
     // Since 'i' is 3 and 3 IS NOT less than 3 (i < 3), the for-loop will stop
     public static void main(String[] args)
     {
