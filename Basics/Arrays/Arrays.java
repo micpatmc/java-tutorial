@@ -1,5 +1,4 @@
-package Basics.Arrays;
-
-public class Arrays {
+public class Arrays 
+{
     
 }

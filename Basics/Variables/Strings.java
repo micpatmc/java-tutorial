@@ -1,5 +1,4 @@
-package Basics.Variables;
-
-public class Strings {
+public class Strings 
+{
     
 }
