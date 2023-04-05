@@ -3,14 +3,20 @@
 
 public class Comments
 {
-    // In this example, I am going to show how to create comments inside java.
-
     // This is a single line comment
 
     /* While this is a 
     multi-line comment */
 
+    // This is
+    // also a multi-line
+    // comment
+
+    // -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    // -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
     // Comments are used to mainly express in short what your code does
+    // Comments don't affect your code in any way, just to inform the user what it does
 
     // Ex:
     // This function increments the number of apples and prints it to the screen
@@ -19,7 +25,6 @@ public class Comments
         int numOfApples = 0;
         numOfApples = numOfApples + 1;
         
-        // Comments don't affect your code
         // counter = 5;
 
         System.out.println(numOfApples);

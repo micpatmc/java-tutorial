@@ -25,6 +25,9 @@ public class WhileLoop
     //    // Code.
     //    i++;
     // }
+    
+    // -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    // -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
     // How this works:
     // 'i' will start at 0
@@ -41,6 +44,11 @@ public class WhileLoop
 
     // 'i' is now 3
     // Since 'i' is 3 and 3 IS NOT less than 3 (i < 3), the for-loop will stop
+
+    // -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    // -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+    // This function will use a while loop and print out the index values
     public static void main(String[] args)
     {
         // Run this to see the output

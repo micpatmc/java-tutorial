@@ -18,6 +18,9 @@ public class ForLoop
     //    // Code.
     // }
 
+    // -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    // -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
     // How this works:
     // 'i' will start at 0
     // the code will run
@@ -33,6 +36,11 @@ public class ForLoop
     
     // 'i' is now 3
     // Since 'i' is 3 and 3 IS NOT less than 3 (i < 3), the for-loop will stop
+
+    // -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    // -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+    // This function will use a while loop and print out the index values
     public static void main(String[] args)
     {
         // Run this to see the output
