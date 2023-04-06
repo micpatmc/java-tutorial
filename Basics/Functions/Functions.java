@@ -20,9 +20,7 @@ public class Functions
     // -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
     // -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-    // We now have this function that prints out the word "Apple"
-    // We can now implement this function inside main
-
+    // We now have this function that prints out the word "Apple" using the previous function
     public static void main(String[] args)
     {
         printApple();

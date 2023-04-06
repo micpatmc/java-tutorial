@@ -1,11 +1,12 @@
 // What you'll learn:
 // How to do a while-loop inside Java.
 
+// Simplified definition:
+// A while-loop is a type of loop in java that constantly
+// runs code up until a certain condition is met
+
 public class WhileLoop 
 {
-    // A while-loop is a type of loop in java that constantly
-    // runs code up until a certain condition is met
-
     // This is the universal structure of while-loops
     // -------------------------------------------
     // [STARTING VARIABLE]

@@ -1,11 +1,12 @@
 // What you'll learn:
 // How to do a for-loop inside Java.
 
+// Simplified definition:
+// A for-loop is a type of loop in java that constantly
+// runs code up until a certain point
+
 public class ForLoop 
 {
-    // A for-loop is a type of loop in java that constantly
-    // runs code up until a certain point
-
     // This is the universal structure of for-loops
     // -------------------------------------------
     // ([STARTING VARIABLE]; [CONDITION]; [INCREMENT])
@@ -39,7 +40,7 @@ public class ForLoop
     // 'i' will increment by 1 (i++)
     
     // 'i' is now 3
-    // Since 'i' is 3 and 3 IS NOT less than 3 (i < 3), the for-loop will stop
+    // Since 'i' is 3 and 3 IS NOT less than 3 (i < 3), the do-loop will stop
 
     // -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
     // -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
