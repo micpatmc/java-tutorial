@@ -5,29 +5,29 @@
 // Inheritance is the concept of using an element from one class
 // to another class.
 
-// For example, we have this "Animal" class
-class Animal
+// For example, we have this "Food" class
+class Food
 {
-    // The number of legs the animal has
-    public int numLegs = 2;
+    // The number of calories the food has
+    public int numCalories = 2;
 }
 
 // -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 // -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 // In our "Inheritance" class, we will now use an element from
-// the "Animal" class
+// the "Food" class
 public class Inheritance
 {
     public static void main(String[] args)
     {
-        // First, create an instance of the "Animal" class, in this case we use a dog
-        Animal dog = new Animal();
+        // First, create an instance of the "Food" class, in this case we use chicken
+        Food chicken = new Food();
 
-        // Access the "numLegs" element from the Animal class using the "dog" variable
-        dog.numLegs = 4;
+        // Access the "numCalories" element from the Food class using the "chicken" variable
+        chicken.numCalories = 200;
 
         // Print out the result
-        System.out.println(dog.numLegs); // Result: 4
+        System.out.println(chicken.numCalories); // Result: 200
     }
 }
