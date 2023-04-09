@@ -1,6 +1,6 @@
 # java-practice
 
-Collection of concepts regarding Java in an informational format for public use.
+Collection of base concepts regarding Java in an informational format for public use.
 
 Current concepts covered:
 
@@ -15,17 +15,30 @@ Current concepts covered:
       i. For-Loops
       ii. While-Loops
       iii. Do-Loops
+    e. Arrays
+      i. 1D-Array
     
-    Basics Roadmap:                                                  > ForLoops.java...
-                                                                    /
-    Numbers.java -> Strings.java -> Comments.java -> Functions.java -> WhileLoops.java...
-                                                                    \
-                                                                     > DoLoops.java...
+    Basics Roadmap:                                                                 > ForLoops.java...
+                                                                                   /
+    Numbers.java -> Strings.java -> Comments.java -> Functions.java -> Arrays.java -> WhileLoops.java...
+                                                                                   \
+                                                                                     > DoLoops.java...
 
 
   *- There is more to be added -*
+  
+  ## 2. Intermediate
+  ---
+    a. HashSets
+    b. Arrays
+      i. 2D-Array
+      
+    Intermediate Roadmap:
+    TwoDimensionalArray.java -> HashSet.java -> HashMap.java
+    
+  *- There is more to be added -*
 
-  ## 2. Object-oriented programming
+  ## 3. Object-oriented programming
   ---
     a. Inheritance
     b. Polymorphism
