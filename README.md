@@ -18,8 +18,8 @@ Current concepts covered:
     e. Arrays
       i. 1D-Array
     
-    Basics Roadmap:                                                                 > ForLoops.java...
-                                                                                   /
+                                                                                     > ForLoops.java...
+    Basics Roadmap:                                                                /
     Numbers.java -> Strings.java -> Comments.java -> Functions.java -> Arrays.java -> WhileLoops.java...
                                                                                    \
                                                                                      > DoLoops.java...
@@ -30,11 +30,12 @@ Current concepts covered:
   ## 2. Intermediate
   ---
     a. HashSets
+    b. HashMaps
     b. Arrays
       i. 2D-Array
       
     Intermediate Roadmap:
-    TwoDimensionalArray.java -> HashSet.java -> HashMap.java
+    TwoDimensionalArray.java -> Hashset.java -> Hashmap.java...
     
   *- There is more to be added -*
 
