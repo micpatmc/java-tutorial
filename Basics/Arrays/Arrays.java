@@ -15,7 +15,7 @@ public class Arrays
     // -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
     // -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-    // The way to change the elements in an array is to use [ARRAY_NAME].[[INDEX]] = [NEW_NUMBER]
+    // The way to change the elements in an array is to use [ARRAY_NAME][[INDEX]] = [NEW_NUMBER]
     
     // In this example, that would look like
     // arr[0] = 1;

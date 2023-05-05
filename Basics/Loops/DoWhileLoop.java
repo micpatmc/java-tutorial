@@ -1,13 +1,13 @@
 // What you'll learn:
-// How to do a Do-loop inside Java.
+// How to do a Do-While loop inside Java.
 
 // Simplified definition:
-// A do-loop is a type of loop in java that constantly
+// A Do-While loop is a type of loop in java that constantly
 // runs code up until a certain condition is met
 
-public class DoLoop
+public class DoWhileLoop
 {
-    // This is one of many structures of do-loops
+    // This is one of many structures of Do-While loops
     // -------------------------------------------
     // [STARTING VARIABLE]
     //
@@ -44,7 +44,7 @@ public class DoLoop
     // 'i' will increment by 1 (i++)
     
     // 'i' is now 3
-    // Since 'i' is 3 and 3 IS NOT less than 3 (i < 3), the do-loop will stop
+    // Since 'i' is 3 and 3 IS NOT less than 3 (i < 3), the Do-While loop will stop
 
     // -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
     // -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=

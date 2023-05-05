@@ -14,7 +14,7 @@ Current concepts covered:
     d. Loops
       i. For-Loops
       ii. While-Loops
-      iii. Do-Loops
+      iii. Do-While Loops
     e. Arrays
       i. 1D-Array
     
@@ -22,7 +22,7 @@ Current concepts covered:
     Basics Roadmap:                                                                /
     Numbers.java -> Strings.java -> Comments.java -> Functions.java -> Arrays.java -> WhileLoops.java...
                                                                                    \
-                                                                                     > DoLoops.java...
+                                                                                     > DoWhileLoops.java...
 
 
   *- There is more to be added -*
