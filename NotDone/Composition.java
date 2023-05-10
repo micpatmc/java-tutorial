@@ -1,4 +1,6 @@
 package NotDone;
-public class Composition {
+
+public class Composition 
+{
     
 }

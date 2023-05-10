@@ -29,13 +29,16 @@ Current concepts covered:
   
   ## 2. Intermediate
   ---
-    a. HashSets
-    b. HashMaps
+    a. Data Structures
+      i. HashSets
+      ii. HashMaps
+      iii. Stacks
+      iv. Queues
     b. Arrays
       i. 2D-Array
       
     Intermediate Roadmap:
-    TwoDimensionalArray.java -> Hashset.java -> Hashmap.java...
+    TwoDimensionalArray.java -> Hashset.java -> Hashmap.java -> Stacks.java -> Queues.java
     
   *- There is more to be added -*
 

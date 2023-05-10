@@ -1,4 +1,6 @@
 package NotDone;
-public class Encapsulation {
+
+public class Encapsulation 
+{
     
 }

@@ -1,5 +1,6 @@
 package NotDone;
 
-public class LinkedList {
+public class LinkedList 
+{
     
 }
