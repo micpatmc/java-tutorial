@@ -10,19 +10,23 @@ Current concepts covered:
       i. Numbers
       ii. Strings
     b. Comments 
-    c. Functions
-    d. Loops
+      i. Comments
+    c. Conditional
+      i. If Statements
+      ii. Else Statements
+    d. Functions
+    e. Loops
       i. For-Loops
       ii. While-Loops
       iii. Do-While Loops
-    e. Arrays
+    f. Arrays
       i. 1D-Array
     
-                                                                                     > ForLoops.java...
-    Basics Roadmap:                                                                /
-    Numbers.java -> Strings.java -> Comments.java -> Functions.java -> Arrays.java -> WhileLoops.java...
-                                                                                   \
-                                                                                     > DoWhileLoops.java...
+                                                                                                                                 > ForLoops.java...
+    Basics Roadmap:                                                                                                             /
+    Numbers.java -> Strings.java -> Comments.java -> IfStatements.java -> ElseStatements.java -> Functions.java -> Arrays.java -> WhileLoops.java...
+                                                                                                                                \
+                                                                                                                                 > DoWhileLoops.java...
 
 
   *- There is more to be added -*
@@ -34,11 +38,13 @@ Current concepts covered:
       ii. HashMaps
       iii. Stacks
       iv. Queues
+      v. Min-Heap
+      vi. Max-Heap
     b. Arrays
       i. 2D-Array
-      
+    
     Intermediate Roadmap:
-    TwoDimensionalArray.java -> Hashset.java -> Hashmap.java -> Stacks.java -> Queues.java
+    TwoDimensionalArray.java -> Hashset.java -> Hashmap.java -> Stacks.java -> Queues.java -> MinHeap.java -> MaxHeap.java...
     
   *- There is more to be added -*
 
