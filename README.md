@@ -1,8 +1,6 @@
-# java-practice
+# Java Tutorial
 
 Collection of base concepts regarding Java in an informational format for public use.
-
-Current concepts covered:
 
   ## 1. Basics
   ---
