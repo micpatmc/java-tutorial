@@ -18,13 +18,9 @@ Current concepts covered:
     e. Arrays
       i. 1D-Array
     
-                                                                                     > ForLoops.java...
-    Basics Roadmap:                                                                /
-    Numbers.java -> Strings.java -> Comments.java -> Functions.java -> Arrays.java -> WhileLoops.java...
-                                                                                   \
-                                                                                     > DoWhileLoops.java...
-
-
+    Basics Roadmap:                                                                
+    Numbers.java -> Strings.java -> Comments.java -> Functions.java -> Arrays.java -> ScannerInput.java -> ForLoops.java -> WhileLoops.java -> DoWhileLoops.java
+                                                                                   
   *- There is more to be added -*
   
   ## 2. Intermediate
@@ -44,12 +40,13 @@ Current concepts covered:
 
   ## 3. Object-oriented programming
   ---
-    a. Inheritance
-    b. Polymorphism
-    c. Overloading
+    a. Constructors
+    b. Inheritance
+    c. Polymorphism
+    d. Overloading
     
     Object-Oriented Programming Roadmap
-    Inheritance.java -> Polymorphism.java -> Overloading.java...
+    Constructors.java -> Inheritance.java -> Polymorphism.java -> Overloading.java...
 
   *- There is more to be added -*
   
