@@ -15,11 +15,11 @@ public class ElseStatements
 
     // if (2 > 3)
     // {
-    //    System.out.print("**DING DING**"); <-- DOESN'T EXECUTE
+    //    System.out.print("2 is more than 3"); <-- DOESN'T EXECUTE
     // }
     // else
     // {
-    //    System.out.print("**DING DING**"); <-- EXECUTES
+    //    System.out.print("2 is less than 3"); <-- EXECUTES
     // }
 
     // The code above would not run at first, but because there is an "else" statement,
@@ -32,11 +32,11 @@ public class ElseStatements
 
     // if (2 < 3)
     // {
-    //    System.out.print("**DING DING**"); <-- EXECUTES
+    //    System.out.print("2 is less than 3"); <-- EXECUTES
     // }
     // else
     // {
-    //    System.out.print("**DING DING**"); <-- DOESN'T EXECUTE
+    //    System.out.print("2 is more than 3"); <-- DOESN'T EXECUTE
     // }
 
 
