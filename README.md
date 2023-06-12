@@ -12,8 +12,10 @@ Collection of base concepts regarding Java in an informational format for public
     c. Conditional
       i. If Statements
       ii. Else Statements
-      iii. Switch Statements
+      iii. If Else Statements
+      iv. Switch Statements
     d. Functions
+      i. Return Statements
     e. Loops
       i. For-Loops
       ii. While-Loops
@@ -23,7 +25,7 @@ Collection of base concepts regarding Java in an informational format for public
       i. 1D-Array
 
     Basics Roadmap:
-    Numbers.java -> Strings.java -> Comments.java -> IfStatements.java -> ElseStatements.java -> SwitchStatements.java -> Functions.java -> Arrays.java -> ScannerInput.java -> ForLoops.java -> WhileLoops.java -> DoWhileLoops.java -> LoopStatements.java...
+    Numbers.java -> Strings.java -> Comments.java -> IfStatements.java -> ElseStatements.java -> IfElseStatements.java -> SwitchStatements.java -> Functions.java -> ReturnStatements.java -> Arrays.java -> ScannerInput.java -> ForLoops.java -> WhileLoops.java -> DoWhileLoops.java -> LoopStatements.java...
 
   *- There is more to be added -*
   
