@@ -1,9 +1,11 @@
 // What you'll learn:
 // How to implement polymorphism inside Java.
 
-// Simplified definition:
-// Polymorphism is when we have multiple classes related to
-// one another through inheritance.
+/*
+    Simplified definition:
+    Polymorphism is when we have multiple classes related to
+    one another through inheritance.
+*/
 
 // This is our "Food" class
 class Food
@@ -42,8 +44,7 @@ public class Polymorphism
 {
     public static void main(String[] args)
     {
-        // Here we create 3 different objects based on the classes
-        // we created previously
+        // Here we create 3 different objects based on the classes we created previously
         Food food = new Food();
         Food chicken = new Chicken();
         Food steak = new Steak();

@@ -1,10 +1,12 @@
 // What you'll learn:
 // How to use overloading inside Java.
 
-// Simplified definition:
-// If you have two functions with the same name
-// that have different parameters (typically for different functionalities)
-// , that is called "Overloading".
+/*
+    Simplified definition:
+    If you have two functions with the same name
+    that have different parameters (typically for different functionalities)
+    , that is called "Overloading".
+*/
 
 public class Overloading 
 {
@@ -32,12 +34,10 @@ public class Overloading
         int a = 2, b = 2;
         double c = 2.5, d = 2.5f;
 
-        // This will use the first function "add" automatically since
-        // the values we use are int's
+        // This will use the first function "add" automatically since the values we use are int's
         System.out.println("Using the first function add: " + add(a, b)); // Result: 4
         
-        // This will use the second function "add" automatically since
-        // the values we use are double's
+        // This will use the second function "add" automatically since the values we use are double's
         System.out.println("Using the second function add: " + add(c, d)); // Result: 5
     }
 }

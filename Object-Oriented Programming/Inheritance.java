@@ -1,9 +1,11 @@
 // What you'll learn:
 // How to use inheritance inside Java.
 
-// Simplified definition:
-// Inheritance is the concept of using an element from one class
-// to another class.
+/* 
+    Simplified definition:
+    Inheritance is the concept of using an element from one class
+    to another class.
+*/
 
 // For example, we have this "Food" class
 class Food
@@ -11,9 +13,6 @@ class Food
     // The number of calories the food has
     public int numCalories = 2;
 }
-
-// -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-// -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 // In our "Inheritance" class, we will now use an element from
 // the "Food" class

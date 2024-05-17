@@ -14,14 +14,16 @@ public class Comments
     // also a multi-line
     // comment
 
-    // -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-    // -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    /* 
+        -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+        -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-    // Comments are used to mainly express in short what your code does
-    // Comments don't affect your code in any way, just to inform the user what it does
+        Comments are used to mainly express in short what your code does
+        Comments don't affect your code in any way, just to inform the user what it does
 
-    // Ex:
-    // This function increments the number of apples and prints it to the screen
+        Ex:
+        This function increments the number of apples and prints it to the screen
+    */
     public static void main(String[] args)
     {
         int numOfApples = 0;
