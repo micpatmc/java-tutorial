@@ -8,22 +8,20 @@
 */
 
 // For example, we have this "Food" class
-class Food
-{
+class Food {
     // The number of calories the food has
     public int numCalories = 2;
 }
 
 // In our "Inheritance" class, we will now use an element from
 // the "Food" class
-public class Inheritance
-{
-    public static void main(String[] args)
-    {
+public class Inheritance {
+    public static void main(String[] args) {
         // First, create an instance of the "Food" class, in this case we use chicken
         Food chicken = new Food();
 
-        // Access the "numCalories" element from the Food class using the "chicken" variable
+        // Access the "numCalories" element from the Food class using the "chicken"
+        // variable
         chicken.numCalories = 200;
 
         // Print out the result
